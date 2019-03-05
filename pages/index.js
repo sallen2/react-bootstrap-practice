@@ -1,6 +1,8 @@
+import { Component } from 'react'
 import Button from 'react-bootstrap/Button';
 import BootstrapLink from './Link'
-class Home extends React.Component {
+
+class Home extends Component {
 
     state = {
         word: 'World'
