@@ -1,1 +1,1 @@
-# react-bootstrap-practice
+# Next JS Practice
